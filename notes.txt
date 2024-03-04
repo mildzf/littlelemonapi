@@ -1,0 +1,16 @@
+Users in the database
+
+-Admin
+--lemon@admin!
+
+-Mario
+--lemon@mar! 
+
+-Sana
+--lemon@san! 
+
+-Customer1
+--testpass@cus!
+
+-Mylo
+--testpass@myl!
